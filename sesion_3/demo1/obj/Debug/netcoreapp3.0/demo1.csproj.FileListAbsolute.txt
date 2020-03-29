@@ -1,0 +1,11 @@
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\bin\Debug\netcoreapp3.0\demo1.exe
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\bin\Debug\netcoreapp3.0\demo1.deps.json
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\bin\Debug\netcoreapp3.0\demo1.runtimeconfig.json
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\bin\Debug\netcoreapp3.0\demo1.runtimeconfig.dev.json
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\bin\Debug\netcoreapp3.0\demo1.dll
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\bin\Debug\netcoreapp3.0\demo1.pdb
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\obj\Debug\netcoreapp3.0\demo1.csprojAssemblyReference.cache
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\obj\Debug\netcoreapp3.0\demo1.AssemblyInfoInputs.cache
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\obj\Debug\netcoreapp3.0\demo1.AssemblyInfo.cs
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\obj\Debug\netcoreapp3.0\demo1.dll
+C:\Users\erwin\ejemplo-docker\ms-dev-group-coban\sesion_3\demo1\obj\Debug\netcoreapp3.0\demo1.pdb
