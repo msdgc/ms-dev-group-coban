@@ -1,0 +1,14 @@
+version: "3.4"
+services:
+    hr_sql_dev:
+        image: crobles10/hr-database:20.0
+        environment:
+            - WAIT_SQL=35
+        container_name: hr_sql_dev
+        hostname: hr_sql_dev
+        ports:
+            - "1433:1433"
+        networks:
+            - hr_network
+networks: 
+    hr_network:

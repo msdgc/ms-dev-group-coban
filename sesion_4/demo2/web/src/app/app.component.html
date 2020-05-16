@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>Prueba</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h1>Prueba de asincronía</h1>
+        </div>
+        <div class="col-md-12">
+          <table class="table table-bordered">
+            <tbody>
+              <tr>
+                <th>Servicio</th>
+                <th>Respuesta</th>
+              </tr>
+              <tr>
+                <td>/api/departaments</td>
+                <td>{{rspDep}}</td>
+              </tr>
+              <tr>
+                <td>/api/countries</td>
+                <td>{{rspCtr}}</td>
+              </tr>
+              <tr>
+                <td>/api/employees</td>
+                <td>{{rspEmp}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="col-md-3">
+          <button (click)="probar()" class="btn btn-primary">Probar</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
