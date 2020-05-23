@@ -21,7 +21,7 @@ namespace demo1
         // Creamos un método síncrono
         public void tarea2(){
             Console.WriteLine("Mostrar pedido en cocina");
-            Thread.Sleep(500);
+            Thread.Sleep(10000);
             Console.WriteLine("Cocina ha empezado preparación");
         }
     }
